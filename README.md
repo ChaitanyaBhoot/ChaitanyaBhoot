@@ -2,8 +2,10 @@
 #### I am pursuing my BE in Information Technology
 I am interested in Backend Development and Database Management.
 
-Skills: C / C++/ MySQL
-
+##Skills
+-C
+-C++
+-MySQL
 - 🔭 I’m currently working on Procedural Oriented Language 
 - 🌱 I’m currently learning Database And Algorithm 
 - 📫 How to reach me: 7620532137 
